@@ -32,6 +32,12 @@
 
 <h2 align="center"> 💻 Languages-Frameworks-Tools 💻 </h2>
 <br/>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,git,python,javascript,react,html,css,vscode,linkedin,pr" />
+    
+  </a>
+</div>
 
 <!--
 **Neutron-Harper/Neutron-Harper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
